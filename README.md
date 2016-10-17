@@ -10,14 +10,14 @@ This would fix your WiFi card and let you surf the internet through the WiFi.
 # HOW TO INSTALL
 1.) Download/Clone the repo
 
-2.) Go to the directory containing the downloaded files\n
+2.) Go to the directory containing the downloaded files
 
-3.) Open the terminal (alt+ctrl+t) here.\n
+3.) Open the terminal (alt+ctrl+t) here.
 
 4.) Enter the following command in the terminal. (Enter your password when asked)
 
 		bash rtl8723be.sh
 
-5.)	Check your wifi connections now./n/n
+5.)	Check your wifi connections now.
 
 NOTE: if it still doesn't show any wifi near you, restart your pc.
