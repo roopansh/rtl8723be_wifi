@@ -3,7 +3,7 @@ if [ $EUID -ne 0 ]; then
 	echo "Please run as root"
 	exit
 fi
-echo "Removing rtl8723be module form the kernel"
+echo "Removing rtl8723be module from the kernel"
 modprobe -r rtl8723be
 if [ "$?" = "0" ]; then
 	echo "Entering /etc/modprobe.d/"
